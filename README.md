@@ -1,5 +1,3 @@
-# car_OO_challenge
-
 # Car **OO Challenge**
 
 ## **Part One**
